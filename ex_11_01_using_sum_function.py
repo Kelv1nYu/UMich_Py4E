@@ -15,6 +15,8 @@ with open(filename) as f:
 		for tmpnum in tmpnums:
 			nums.append(tmpnum)
 
+# change the list of strings into list of integer, because the sum function cannot sum up the strings
+
 for i in range(len(nums)):
 	nums[i] = int(nums[i])
 
