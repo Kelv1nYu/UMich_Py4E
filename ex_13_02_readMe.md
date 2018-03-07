@@ -11,7 +11,6 @@ You do not need to save these files to your folder since your program will read 
 Data Format
 The data consists of a number of names and comment counts in JSON as follows:
 <pre>
-<code>
 {
   comments: [
     {
@@ -25,7 +24,6 @@ The data consists of a number of names and comment counts in JSON as follows:
     ...
   ]
 }
-</code>
 </pre>
 
 The closest sample code that shows how to parse JSON and extract a list is json2.py. You might also want to look at geoxml.py to see how to prompt for a URL and retrieve data from a URL.
