@@ -1,4 +1,4 @@
-#file opreation and list opreation
+#file opreation and list opreation and dictionary opreation
 
 name = input("Enter file:")
 if len(name) < 1 : name = "mbox-short.txt"
