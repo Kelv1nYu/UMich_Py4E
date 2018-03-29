@@ -1,3 +1,4 @@
+# add up and count the input number, end with "done"
 num = 0
 tot = 0.0
 while True:
