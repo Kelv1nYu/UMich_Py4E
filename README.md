@@ -16,4 +16,5 @@
 ## 课程5
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization/home/welcome)
 
-**由于作业需要付费才可进行查看，故这里不提供作业题目**
+---
+**注：由于作业需要付费才可进行查看，故这里不提供作业题目**
