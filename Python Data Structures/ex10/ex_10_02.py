@@ -1,5 +1,5 @@
-#file opreation and list opreation and dictionary opreation
-
+ #file opreation and list opreation and dictionary opreation and tuple
+    
 name = input("Enter file:")
 if len(name) < 1 : name = "mbox-short.txt"
 handle = open(name)
