@@ -1,5 +1,8 @@
+# base on the ex_03_01.py, add try-except
+
 hrs = input("Enter Hours:")
 rate = input("Enter Rate:")
+
 try:
     h = float(hrs)
     r = float(rate)
