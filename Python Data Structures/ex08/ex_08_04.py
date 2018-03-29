@@ -1,4 +1,4 @@
-#file operation
+#file operation and list operation
 
 fname = input("Enter file name: ")
 fh = open(fname)
