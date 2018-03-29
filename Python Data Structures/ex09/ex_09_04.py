@@ -1,11 +1,11 @@
-#file operation
+#file operation and list operation and dictionary opreation
 
 name = input("Enter file:")
 if len(name) < 1 : name = "mbox-short.txt"
 handle = open(name)
 
 names = list()
-counts = {}
+counts = dict()
 largestValue = None
 largestName = None
 
